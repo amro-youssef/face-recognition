@@ -10,11 +10,7 @@ const Logo = () => {
         <img style={{paddingTop: '20px'}} alt='logo' src={brain} />
       </Tilt>
 
-      {/* <Tilt>
-        <div style={{ height: '200px', width: '400px', backgroundColor: 'darkgreen' }}>
-          <h1>React Parallax Tilt 👀</h1>
-        </div>
-      </Tilt> */}
+
     </div>
   );
 }
